@@ -4,7 +4,7 @@ I am an ecologist working at the intersection of social and ecological systems, 
 
 Choosing ecology as a career was a deliberate path in a context where professional choices are often shaped by social expectations. Formative experiences, including studying sustainable development at the Indian Institute of Technology Madras and working as a tour guide across Bangladesh, broadened my perspective and deepened my appreciation of the relationships between people, place, and environment.
 
-Today, my research explores how environmental change reshapes societies in vulnerable river deltas. Combining ethnographic perspectives with interdisciplinary mixed methods, I investigate pathways toward more just, resilient, and sustainable futures.
+My research explores how environmental change reshapes societies in vulnerable river deltas. Combining ethnographic perspectives with interdisciplinary mixed methods, I investigate pathways toward more just, resilient, and sustainable futures.
 
 
  I am a fellow of [Future Earth Coast](https://www.futureearthcoasts.org/) and member of the [Anthropocene Sediment Network](https://anthrosednet.com/) team. 
