@@ -1,11 +1,29 @@
 ## Mofizur Rahman
  ### About Me
-I am an ecologist working at the intersection of social and ecological systems, shaped as much by lived experience as by academic training. I was born in Bangladesh—more specifically Jashore, a small border town with India. Growing up in this dynamic frontier landscape deeply influenced my worldview. Everyday life was marked by the exchange of goods—both formal and informal—as well as a rich flow of culture, particularly music of old days, Hindi movies and literature, across borders. These early experiences instilled in me a sensitivity to connections, flows, and interdependencies that continue to shape my work.
-Choosing ecology and environment as a career path was a deliberate decision—one that is not always straightforward in the Bangladeshi context, where education, profession, and even life choices are often guided by family and social expectations.  A defining moment in my journey was spending half a year in India at the Indian Institute of Technology Madras, where I engaged with sustainable development in transition economies. That period, marked as much by travel as by study, broadened my intellectual and cultural horizons.
-Another formative experience was working as a tour guide early in my career. This allowed me to rediscover my own country through the eyes of others—interpreting its landscapes, cultures, and complexities for international visitors. These journeys across Bangladesh laid the foundation for my ecological thinking, grounding it in real places, people, and stories.
-Today, my work focuses on understanding how environmental change interacts with human systems—particularly in vulnerable regions—bringing together ethnographic insight and interdisciplinary mixed methods research to explore pathways toward more just and sustainable futures of the river deltas.
+I am an ecologist working at the intersection of social and ecological systems, where lived experience and academic inquiry inform one another. Growing up in Jashore, a border town between Bangladesh and India, I was shaped by a landscape of cultural exchange, cross-border connections, and everyday interdependencies—experiences that continue to influence my research.
 
- I am a fellow of [Future Earth Coast](https://www.futureearthcoasts.org/)
+Choosing ecology as a career was a deliberate path in a context where professional choices are often shaped by social expectations. Formative experiences, including studying sustainable development at the Indian Institute of Technology Madras and working as a tour guide across Bangladesh, broadened my perspective and deepened my appreciation of the relationships between people, place, and environment.
+
+Today, my research explores how environmental change reshapes societies in vulnerable river deltas. Combining ethnographic perspectives with interdisciplinary mixed methods, I investigate pathways toward more just, resilient, and sustainable futures.
+
+
+ I am a fellow of [Future Earth Coast](https://www.futureearthcoasts.org/) and member of the [Anthropocene Sediment Network](https://anthrosednet.com/) team. 
+
+
+### Education
+* Ghent University, Belgium and associated partner institutes— Joint European Master’s in Marine Biodiversity and Conservation (2010). with Erasmus Mundus Scholarship (European Union).
+-This program deepened my understanding of ecological systems across scales, integrating marine science, conservation, and international research collaboration.
+* Indian Institute of Technology Madras (India) & EPFL – École Polytechnique Fédérale de Lausanne (Switzerland) (2008)
+Postgraduate Diploma in Technology for Sustainable Development
+Awarded through the Indo-Swiss Cooperation Programme, this experience introduced me to interdisciplinary approaches to sustainability, combining technical knowledge with global perspectives.
+* Khulna University, Bangladesh — B.Sc. in Environmental Science (2005)
+School of Life Science
+My undergraduate studies marked a decisive turn toward ecology. My thesis, “Nature of Solute Load in and around the Mangrove Ecosystem (Sundarbans),” explored environmental processes within one of the world’s most dynamic coastal systems.
+* Government M. M. College, Bangladesh (1998)
+Named after the renowned poet Michael Madhusudan Dutt, this period laid the foundation for my scientific thinking while also nurturing an interest in global politics and philosophy.
+* Jashore Zilla School, Bangladesh (1996)
+Completed my secondary education at one of the oldest schools in the country, established in 1838 along the historic Grand Trunk Road, where my early curiosity and discipline were shaped.
+
 ### Contact Informaiton 
 * Email: mofiz.sunshine@gmail.com
 * LinkedIn
